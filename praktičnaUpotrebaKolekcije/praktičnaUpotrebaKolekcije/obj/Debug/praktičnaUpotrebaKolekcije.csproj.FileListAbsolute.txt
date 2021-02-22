@@ -1,0 +1,10 @@
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\bin\Debug\praktičnaUpotrebaKolekcije.exe.config
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\bin\Debug\praktičnaUpotrebaKolekcije.exe
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\bin\Debug\praktičnaUpotrebaKolekcije.pdb
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.csprojAssemblyReference.cache
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.Form1.resources
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.Properties.Resources.resources
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.csproj.GenerateResource.cache
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.exe
+C:\Users\Učenik 3\Downloads\praktičnaUpotrebaKolekcije\praktičnaUpotrebaKolekcije\obj\Debug\praktičnaUpotrebaKolekcije.pdb
